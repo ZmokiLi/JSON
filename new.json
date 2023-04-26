@@ -1,1 +1,6 @@
-{"name":"Alexandra Karshakevich","age":"27","Pets":"2","Salary":"3000"}
+{
+    "name": "Alexandra Karshakevich",
+    "age": "27",
+    "Pets": "2",
+    "Salary": "3000"
+}

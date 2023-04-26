@@ -1,0 +1,45 @@
+ 1001  pwd
+ 1002  pwd
+ 1003  history
+ 1004  git clone https://github.com/ZmokiLi/JSON.git
+ 1005  cd JSON
+ 1006  echo "" > new.json
+ 1007  git status
+ 1008  git add new.json
+ 1009  git status
+ 1010  git commit -m "add file new.json"
+ 1011  git status
+ 1012  git log
+ 1013  git push
+ 1014  pwd
+ 1015  nano new.json
+ 1016  git status
+ 1017  git add new.json
+ 1018  git status
+ 1019  git commit -m "changed file new.json"
+ 1020  git status
+ 1021  git push
+ 1022  echo "" > preferences.json
+ 1023  echo "{"favoriteFilm":"Harry Potter","favoriteSeries":"Brassic","favoriteFood":"Red Wine","favoriteSeason":"Summer","visitingCountry":"Portugal"}" > preferences.json
+ 1024  echo "" > preferences.json
+ 1025  echo '{"favoriteFilm":"Harry Potter","favoriteSeries":"Brassic","favoriteFood":"Red Wine","favoriteSeason":"Summer","visitingCountry":"Portugal"}' > preferences.json
+ 1026  echo "" > skills.json
+ 1027  nano skills.json
+ 1028  git status
+ 1029  git add .
+ 1030  git status
+ 1031  git commit -m "add preferences.gson and skills.json"
+ 1032  git status
+ 1033  git push
+ 1034  git pull
+ 1035  git status
+ 1036  git add .
+ 1037  git status
+ 1038  git commit -m "changed file new.json preferences.json skills.json"
+ 1039  git status
+ 1040  git push
+ 1041  history
+ 1042  history > history.txt
+ 1043  history 100 > history.txt
+ 1044  history 42  > history.txt
+ 1045  history 1000  > history.txt

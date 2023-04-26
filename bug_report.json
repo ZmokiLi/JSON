@@ -1,1 +1,7 @@
-
+{
+    "Title": "The [Start test] Button on the last screen in the Currency.com card is located in the middle of the screen",
+    "Precondition": "1. The app is downloaded 2. Launch app",
+    "Steps": "1. Tap the \"Currency.com\" Card2. Open the last screen in the Currency.com card",
+    "actualResult": "The [Start test] button is located in the middle of the screen",
+    "expectedResult": "The [Start test] button is located in the bottom of the screen"
+}
